@@ -1,0 +1,22 @@
+h2{
+            color: brown;
+            background-color:gold;
+            font-size: 30px;
+        }
+            
+        h3{
+            color:chocolate;
+            background-color: darkseagreen;
+            font-size: 30px;
+
+
+        }
+        h4{
+            color: darkgreen;
+            background-color: dimgray;
+        }
+        p{
+            color:hotpink;
+            background-color: lavender;
+            font-size: 20px;
+        }
